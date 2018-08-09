@@ -1,0 +1,8 @@
+title: Naifen00.github.io
+description: naifen00
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
